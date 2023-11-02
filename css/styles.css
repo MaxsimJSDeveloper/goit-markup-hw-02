@@ -8,14 +8,6 @@ body {
         font-style: normal;
 }
 
-button {
-        cursor: pointer;
-        color: #FFF;
-        font-weight: 500;
-        letter-spacing: 0.64px;
-        background: #4D5AE5;
-}
-
 a {
         text-decoration: none;
 }
@@ -68,16 +60,6 @@ p {
         font-style: normal;
 }
 
-.name {
-        color: #FFF;
-        background: #2E2F42;
-        text-align: center;
-        font-size: 56px;
-        font-weight: 700;
-        line-height: 60px;
-        letter-spacing: 1.12px;
-}
-
 .naw-list {
         color: #2e2f42;
 }
@@ -94,4 +76,26 @@ p {
 .address-list:hover,
 .address-list:focus {
        color: #404bbf;
+}
+
+.section-name {
+        background-color: #2e2f42;
+}
+
+.name {
+        color: #FFF;
+        background: #2E2F42;
+        text-align: center;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+}
+
+.button {
+        cursor: pointer;
+        color: #FFF;
+        font-weight: 500;
+        letter-spacing: 0.64px;
+        background: #4D5AE5;
 }
