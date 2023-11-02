@@ -5,7 +5,6 @@ body {
         line-height: 24px;
         background: #FFF;
         font-weight: 400;
-        font-style: normal;
 }
 
 a {
@@ -47,9 +46,7 @@ a {
         color: #404bbf;
 }
 
-.address-list {
-        color: #434455;
-}
+
 
 .address-list:hover,
 .address-list:focus {
@@ -93,10 +90,8 @@ a {
 }
 
 .section-paragraph {
-        font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
 }
 
 .our_team {
@@ -112,7 +107,3 @@ a {
         color: #2e2f42;
 }
 
-.our_team-list {
-        background-color: #FFFFFF;
-
-}
