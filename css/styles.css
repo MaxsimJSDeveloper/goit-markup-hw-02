@@ -76,3 +76,13 @@ p {
         line-height: 60px;
         letter-spacing: 1.12px;
 }
+
+.naw-list-studio {
+        color: #2e2f42;
+}
+
+.naw-list-studio:hover,
+.naw-list-studio:focus {
+        color: #404bbf;
+}
+
