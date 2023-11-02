@@ -23,7 +23,6 @@ a {
 
 .logotipe-studio {
         color: #2E2F42;
-   
 }
 
 .links {
@@ -46,7 +45,9 @@ a {
         color: #404bbf;
 }
 
-
+.address-list {
+        color: #434455;
+}
 
 .address-list:hover,
 .address-list:focus {
@@ -107,3 +108,7 @@ a {
         color: #2e2f42;
 }
 
+.our_team-list {
+        background-color: #FFFFFF;
+
+}
