@@ -7,8 +7,11 @@ body {
         font-weight: 400;
 }
 
+a {
+        text-decoration: none;
+}
 
-
+/* Логотип */
 .logotipe {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -29,11 +32,7 @@ body {
         letter-spacing: 0.32px;
 }
 
-.address {
-        letter-spacing: 0.32px;
-        font-style: normal;
-}
-
+/* Навігація */
 .naw-list {
         color: #2e2f42;
 }
@@ -41,6 +40,12 @@ body {
 .naw-list:hover,
 .naw-list:focus {
         color: #404bbf;
+}
+
+/* Адреса */
+.address {
+        letter-spacing: 0.32px;
+        font-style: normal;
 }
 
 .address-list {
@@ -52,6 +57,7 @@ body {
        color: #404bbf;
 }
 
+/* Секція 1 */
 .section-name {
         background-color: #2e2f42;
 }
@@ -66,6 +72,7 @@ body {
         letter-spacing: 0.02em;
 }
 
+/* Кнопка */
 .button {
         cursor: pointer;
         color: #FFF;
@@ -79,7 +86,7 @@ body {
 .button:focus {
         background-color: #404BBF;
 }
-
+ /* Секція 2 */
 .section-title-third {
         color: #2E2F42;
         font-size: 20px;
@@ -93,6 +100,7 @@ body {
         letter-spacing: 0.02em;
 }
 
+/* Секція 3 */
 .our_team {
         background-color: #F4F4FD;
 }
@@ -109,4 +117,18 @@ body {
 .our_team-list {
         background-color: #FFFFFF;
 
+}
+
+/* Футер */
+.footer {
+        background-color: #2e2f42;
+}
+
+.footer-logotipe-studio {
+        color: #f4f4fd;
+}
+
+.footer-paragraph {
+        color: #F4F4FD;
+        letter-spacing: 0.02em;
 }
