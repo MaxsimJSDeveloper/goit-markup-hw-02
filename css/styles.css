@@ -77,12 +77,12 @@ p {
         letter-spacing: 1.12px;
 }
 
-.naw-list-studio {
+.naw-list {
         color: #2e2f42;
 }
 
-.naw-list-studio:hover,
-.naw-list-studio:focus {
+.naw-list:hover,
+.naw-list:focus {
         color: #404bbf;
 }
 
