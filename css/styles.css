@@ -63,8 +63,9 @@ p {
         letter-spacing: 0.32px;
 }
 
-.contacts {
+.address {
         letter-spacing: 0.32px;
+        font-style: normal;
 }
 
 .name {
@@ -86,3 +87,11 @@ p {
         color: #404bbf;
 }
 
+.address-list {
+        color: #434455;
+}
+
+.address-list:hover,
+.address-list:focus {
+       color: #404bbf;
+}
