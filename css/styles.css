@@ -84,7 +84,7 @@ a {
         background-color: #404BBF;
 }
 
-.section-title {
+.section-title-third {
         color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
@@ -103,7 +103,7 @@ a {
         background-color: #F4F4FD;
 }
 
-.our_team-title {
+.section-title-second {
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
@@ -114,5 +114,5 @@ a {
 
 .our_team-list {
         background-color: #FFFFFF;
-        
+
 }
