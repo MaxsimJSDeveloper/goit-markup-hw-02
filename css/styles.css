@@ -7,11 +7,14 @@ body {
         font-weight: 400;
 }
 
-a {
+.link {
         text-decoration: none;
 }
 
-/* Logotipe */
+.list {
+        list-style-type: none;
+}
+
 .logotipe {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -29,7 +32,7 @@ a {
 .links {
         color: #2E2F42;
         font-weight: 500;
-        letter-spacing: 0.32px;
+        letter-spacing: 0.02em;
 }
 
 /* Nav */
@@ -44,7 +47,7 @@ a {
 
 /* Adress */
 .address {
-        letter-spacing: 0.32px;
+        letter-spacing: 0.02em;
         font-style: normal;
 }
 
@@ -73,11 +76,11 @@ a {
 }
 
 /* button */
-.button {
+button {
         cursor: pointer;
         color: #FFF;
         font-weight: 500;
-        letter-spacing: 0.64px;
+        letter-spacing: 0.04em;
         background: #4D5AE5;
         line-height: 1.5;
 }
@@ -114,7 +117,7 @@ a {
         color: #2e2f42;
 }
 
-.our-team-list {
+.our-team-item {
         background-color: #FFFFFF;
 
 }
